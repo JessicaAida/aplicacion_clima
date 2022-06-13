@@ -1,0 +1,47 @@
+body {
+    font-family: "Gill Sans Extrabold", Helvetica, sans-serif
+}
+
+footer {
+    background-color: rgb(190, 188, 188);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: rgb(95, 93, 93);
+}
+
+#centrar {
+    text-align: center;
+}
+
+button {
+    background-color: #1141a8;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    border-radius: 3px;
+}
+
+input {
+    border-color: #80808054;
+    padding: 8px 20px;
+    font-size: 12px;
+    border-radius: 3px;
+}
+
+img {
+    margin-top: 10px;
+    border-radius: 6px;
+}
+
+.estiloParrafo {
+    color: #312fa8;
+}
+
+header {
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
